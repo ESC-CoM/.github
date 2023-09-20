@@ -1,6 +1,6 @@
 ## Hi there 👋
 백엔드 **스웨거** 주소  
-http://api.meething.me:8080
+http://api.meething.me
 <!--
 
 **Here are some ideas to get you started:**
