@@ -1,6 +1,6 @@
 ## Hi there 👋
 백엔드 **스웨거** 주소  
-http://api.meething.me
+http://api.meething.me/swagger-ui/index.html
 <!--
 
 **Here are some ideas to get you started:**
