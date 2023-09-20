@@ -1,6 +1,8 @@
 ## Hi there 👋
 백엔드 **스웨거** 주소  
 http://api.meething.me/swagger-ui/index.html
+ACM 자동 인증을 위해 nginx에서 root 경로에서 200을 반환하도록 했습니다.
+그 결과 root 접속 시 swagger로 가는요청이 intercept되어 전체경로로 수정합니다.
 <!--
 
 **Here are some ideas to get you started:**
